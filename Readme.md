@@ -28,6 +28,7 @@
 
 
 **ScreenShots**
+
 ![Start view](Images/start.png)
 ---
 <p> This screen will show on running SpiderBot.py </p>
