@@ -9,7 +9,7 @@
 ---
 
 * [Description](#description)
-* [Technologogies](#technologies)
+* [Technologies](#technologies)
 * [Setup](#setup)
 
 ---
