@@ -9,7 +9,7 @@
 ---
 
 * [Description](#description)
-* [Technologogies](#technologies)
+* [Technologies](#technologies)
 * [Setup](#setup)
 
 ---
@@ -44,6 +44,8 @@
 <p>Wait for this completion alert</p>
 <p>click on ok</p>
 <p>Then click on Exit button</p>
+
+
 ## Technologies
 ---
 * Python 3.x
