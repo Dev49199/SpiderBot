@@ -1,6 +1,6 @@
 # SpiderBot
 
-<p>A GUI based Web Scrapper.</p>
+<p>This is a GUI based Web Scrapper.</p>
 
 
 ---
